@@ -109,7 +109,7 @@ Analytics Dashboard
 Email Templates
 
 ## Deployment
-https://vercel.com/gautam-s-projects-d5760053/student-inquiry-ymis
+student-inquiry-ymis-pbl5n7sd2-gautam-s-projects-d5760053.vercel.app
 
 ## Author
 **Gautam**
