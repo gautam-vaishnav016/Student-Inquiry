@@ -108,5 +108,8 @@ WhatsApp Integration
 Analytics Dashboard
 Email Templates
 
+## Deployment
+https://vercel.com/gautam-s-projects-d5760053/student-inquiry-ymis
+
 ## Author
 **Gautam**
