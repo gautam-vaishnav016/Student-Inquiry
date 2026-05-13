@@ -19,7 +19,7 @@ function App() {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    const response = await fetch("http://localhost:8000/api/inquiry", {
+    const response = await fetch("https://student-inquiry.onrender.com", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
